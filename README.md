@@ -10,7 +10,7 @@ A personal profolio built using HTML and CSS to help recrutiers to know more abo
 
 * How to build and run the program
 ```
-click on this link: https://shrina09.github.io/Personal_Website/
+Open this link in a browser of your choice: https://shrina09.github.io/Personal_Website/
 ```
 
 ## Author Information
