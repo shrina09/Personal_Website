@@ -1,6 +1,6 @@
 # Personal Website
 
-A personal profolio built using HTML and CSS to help recrutiers to know more about the developer's portfolio.
+A personal portfolio built using HTML and CSS to help recruiters to know more about the developer's portfolio.
 ## Getting Started
 ### Dependencies
 
