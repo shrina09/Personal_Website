@@ -1,1 +1,18 @@
-# Personal_Website
+# Personal Website
+
+A personal profolio built using HTML and CSS to help recrutiers to know more about the developer's portfolio.
+## Getting Started
+### Dependencies
+
+* It requires no prerequisites, libraries and OS version.
+
+### Executing program
+
+* How to build and run the program
+```
+click on this link: https://shrina09.github.io/Personal_Website/
+```
+
+## Author Information
+Your name: Shrina<br />
+Email: shrina@uoguelph.ca
